@@ -26,13 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='SimpleTodo Gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SimpleTodo GIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [EZGIF](https://ezgif.com/) and [IMG2GO](https://www.img2go.com/convert-video-to-gif).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I was unable to log into my GitHUB account from Android Studios with my username and password, so I had to use a token. 
 
 ## License
 
